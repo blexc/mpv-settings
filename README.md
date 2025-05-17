@@ -2,6 +2,6 @@
 
 My MPV Settings for Windows.
 
-# Sources:
-- https://github.com/Tsubajashi/mpv-settings/tree/master
+# Sources
+- https://github.com/Tsubajashi/mpv-settings
 - https://github.com/Ajatt-Tools/mpvacious
